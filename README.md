@@ -30,6 +30,7 @@ Everything about the project as a whole.
 | [decisions.md](project/decisions.md) | Log of decisions made and why |
 | [open-questions.md](project/open-questions.md) | Open questions for the client and for myself |
 | [backlog.md](project/backlog.md) | Ideas and tasks that haven't become features yet |
+| [design/](project/design/) | Design: direction, tokens, components, concept log, references |
 
 ## Features — `features/`
 

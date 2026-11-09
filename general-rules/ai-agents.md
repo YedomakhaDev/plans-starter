@@ -16,6 +16,7 @@ Rules to follow:
 - Commits: `_plans/general-rules/commits.md`
 - Branches: `_plans/general-rules/branches.md`
 - Language (code and everything for the client — in English): `_plans/general-rules/language.md`
+- Design: `_plans/project/design/` — `tokens.md` is the source of truth for colors, fonts, and sizes; approved copy only in designs
 
 While working:
 - Record new decisions in decisions.md and new questions in open-questions.md (feature or project).

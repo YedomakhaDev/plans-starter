@@ -10,6 +10,7 @@
 | Decision that affects the project | `project/decisions.md` |
 | Question without an answer | `open-questions.md` (project or feature) |
 | "Someday" idea | `project/backlog.md` |
+| Visuals: design decisions, palette, fonts, concepts, references | `project/design/` |
 | New feature or large task | new folder in `features/` |
 | Rule for all projects | `general-rules/`, then into the `plans-starter` template |
 
