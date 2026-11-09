@@ -14,7 +14,7 @@ Clients are English-speaking. The rule is simple: everything that goes outside o
 
 - Talking to the agent.
 - Your notes, decisions, tasks, backlog, open questions (if they don't go to the client).
-- The project's `CLAUDE.md` / `AGENTS.md` — the agent understands any language but writes code and commits in English.
+- The project's `AGENTS.md` — the agent understands any language but writes code and commits in English.
 
 ## Mixed
 

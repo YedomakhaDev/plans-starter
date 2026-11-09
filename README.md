@@ -7,7 +7,7 @@ Cloned into the project root as `_plans/`. How to connect it to a new project: [
 
 ## General rules — `general-rules/`
 
-The same for every project. Referenced from the project's `CLAUDE.md` / `AGENTS.md`.
+The same for every project. Referenced from the project's `AGENTS.md` (`CLAUDE.md` imports it).
 
 | File | Purpose |
 |---|---|
@@ -15,7 +15,7 @@ The same for every project. Referenced from the project's `CLAUDE.md` / `AGENTS.
 | [commits.md](general-rules/commits.md) | Commit workflow (plan → approval → commits) and message format |
 | [branches.md](general-rules/branches.md) | Branch naming and workflow |
 | [language.md](general-rules/language.md) | What must be in English and what can be in your working language |
-| [ai-agents.md](general-rules/ai-agents.md) | Block for the project's `CLAUDE.md` / `AGENTS.md` |
+| [ai-agents.md](general-rules/ai-agents.md) | Agent instructions: block for `AGENTS.md`, plus `CLAUDE.md` with an import |
 
 ## Project — `project/`
 

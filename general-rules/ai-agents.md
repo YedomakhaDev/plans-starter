@@ -1,6 +1,15 @@
-# Block for CLAUDE.md / AGENTS.md
+# Agent instructions: AGENTS.md + CLAUDE.md
 
-Copy the block below into `CLAUDE.md` and/or `AGENTS.md` in the project root.
+Keep agent rules in **one** file — `AGENTS.md` in the project root. Codex, Cursor, and other agents read it.
+Claude Code reads `CLAUDE.md`, so it contains a single import line:
+
+```markdown
+@AGENTS.md
+```
+
+This way the rules live in one place and don't drift between files.
+
+Copy the block below into `AGENTS.md` and add a heading and 1–2 sentences about the project on top.
 
 ```markdown
 ## Plans

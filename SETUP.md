@@ -24,7 +24,10 @@ In the project's main repository, add to `.gitignore`:
 _plans/
 ```
 
-Then fill in `project/context.md` and paste the block from [general-rules/ai-agents.md](general-rules/ai-agents.md) into the project's `CLAUDE.md` / `AGENTS.md`.
+Then fill in `project/context.md` and create two files in the project root (details in [general-rules/ai-agents.md](general-rules/ai-agents.md)):
+
+- `AGENTS.md` — the block from `ai-agents.md` + a couple of sentences about the project;
+- `CLAUDE.md` — a single line: `@AGENTS.md`.
 
 ## Pull updated rules from the template
 
